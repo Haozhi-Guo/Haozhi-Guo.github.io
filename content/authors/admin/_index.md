@@ -27,7 +27,7 @@ education:
   - area: PhD Management
     institution: Zhejiang University of Technology
     date_start: 2020-10
-    date_end:
+    date_end: 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
